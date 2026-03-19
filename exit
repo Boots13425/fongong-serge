@@ -1,0 +1,110 @@
+[33mcommit c8e0c391c600cad7006583f34e87f9e0e7d45785[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mall_branch[m[33m)[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Thu Oct 23 10:51:03 2025 +0100
+
+    fixed the edmapra link
+
+[33mcommit f496dcb3ce7487ee5ec5fd9002c68ee4348c248b[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Thu Oct 23 10:48:13 2025 +0100
+
+    added a link to edmapra
+
+[33mcommit 3166e480c74b0a26f6cfb1cff463b9b2bb696632[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Thu Oct 23 10:40:07 2025 +0100
+
+    added the edmapra image
+
+[33mcommit e91d88000b0d56d3e90db070ce2060eeafb46802[m[33m ([m[1;31morigin/all_branch[m[33m)[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jul 19 20:26:20 2025 +0100
+
+    google validation
+
+[33mcommit 2c9dc389d86cf729d605b2a16ae8eb716c9e7b9a[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jul 19 20:11:03 2025 +0100
+
+    seo addition
+
+[33mcommit 8d6d228aad38da041716a73110da37d5477caa0f[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jul 19 09:49:17 2025 +0100
+
+    rebranding my portfolio
+
+[33mcommit d2f47a51f57cf4a41d5a593e9360fa1b875288ad[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jan 18 06:04:37 2025 +0100
+
+    modified about image
+
+[33mcommit ed8e7a6f6c1516aecdc4edc3f325812cf1dcc021[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jan 18 05:58:30 2025 +0100
+
+    modified non functional links for testing
+
+[33mcommit a42b78479e0b15af378863e3e65feb249be601dc[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jan 18 05:53:24 2025 +0100
+
+    uploading an additional certificate
+
+[33mcommit fef14bca5f2c59c1f3f8112b0e854765e683f40b[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jan 18 05:28:43 2025 +0100
+
+    another modification for the index page
+
+[33mcommit 48a1334329b838b13f4d502d064134366a8c04b4[m
+Merge: c914287 1988f38
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jan 18 05:26:24 2025 +0100
+
+    modified index page
+
+[33mcommit c914287a29c4e6f54239ce72b3b2a1e749d7f45c[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jan 18 05:21:48 2025 +0100
+
+    adding a certificate file still for testing
+
+[33mcommit 1988f3828dcd13f6a78835c244e18689b6860332[m
+Author: Fongong Serge <fongongserge21@gmail.com>
+Date:   Sat Jan 18 05:10:05 2025 +0100
+
+    testing the image links
+    
+    certificates did not load after deployment
+
+[33mcommit 59ed32f5cb0681bfd2a9fc5451eecb1179254dca[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Sat Jan 18 05:06:50 2025 +0100
+
+    trying to fix the image link problem
+
+[33mcommit bb5048b6476d4b9e501fa66e795077f0b29d4712[m
+Author: Fongong Serge <fongongserge21@gmail.com>
+Date:   Wed Jan 15 19:15:28 2025 +0100
+
+    Delete CNAME
+
+[33mcommit d579d46f636983c52ed065b23d2b670d4eeab71a[m
+Author: Fongong Serge <fongongserge21@gmail.com>
+Date:   Wed Jan 15 19:15:16 2025 +0100
+
+    Update CNAME
+
+[33mcommit a30e2546548b566e2aecb2697877c67efb0c6d42[m
+Author: Fongong Serge <fongongserge21@gmail.com>
+Date:   Wed Jan 15 19:14:40 2025 +0100
+
+    Create CNAME
+
+[33mcommit e69d7f9497693df5d8a0f54830d55261779f528b[m[33m ([m[1;31morigin/commit_branch[m[33m, [m[1;32mcommit_branch[m[33m)[m
+Author: fongong <fongongserge21@gmail.com>
+Date:   Wed Jan 15 19:11:03 2025 +0100
+
+    all my commits for now
